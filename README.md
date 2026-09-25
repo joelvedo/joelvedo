@@ -10,7 +10,7 @@ HubSpot · Marketo · Salesforce · Pardot · Inflection · Clay · HighLevel ·
 
 ### What I'm building
 - **Oplevel**: platform-agnostic GTM and RevOps systems for B2B teams
-- **Revtoro** ([revtoro.com](https://revtoro.com)): a done-for-you marketing system for home service businesses, with a website, missed-call text-back, and automatic review requests
+- **Revtoro** ([revtoro.com](https://revtoro.com)): a done-for-you marketing system for service businesses, with a website, missed-call text-back, and automatic review requests
 - **MioDocs** ([miodocs.com](https://miodocs.com)): premium Google Docs resume templates, with 19,000+ sold
 - **Switchy Tabs**: a Chrome extension for keyboard-first tab switching, with a visual recent-tabs switcher
 - **Second brain**: an Obsidian plus LLM knowledge base, inspired by Karpathy
