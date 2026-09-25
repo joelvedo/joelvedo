@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Joel 🧉
 
-<!--
-**joelvedo/joelvedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I led Marketing Ops and Lifecycle at BILL.
+Now I'm an Ops Engineer and founder of [Oplevel](https://oplevel.com),
+building the marketing and RevOps plumbing that gets leads sales-ready:
+clean, enrich, score, route. Whatever the stack.
 
-Here are some ideas to get you started:
+### Stacks I work in
+HubSpot · Marketo · Salesforce · Pardot · Inflection · Clay · HighLevel · Zapier · and whatever else your GTM runs on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+- **Oplevel**: platform-agnostic GTM and RevOps systems for B2B teams
+- **Second brain**: an Obsidian plus LLM knowledge base, inspired by Karpathy
+
+### Say hi
+[LinkedIn](https://www.linkedin.com/in/joelhacevedo/) · [Oplevel](https://oplevel.com)
+
+Usually found with a mate in one hand and a poodle 🐩 in the other.
